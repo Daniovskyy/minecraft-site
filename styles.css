@@ -3,8 +3,8 @@ body {
     background-image:url(https://www.tapeciarnia.pl/tapety/normalne/157487_minecraft_szkielet_swinka.jpg);
     background-size: cover;
 }
-a {color:red}
+a {color:rgb(0, 255, 76)}
 
 .logo {
-    max-width: 200px;
+    max-width: 400px;
 }
