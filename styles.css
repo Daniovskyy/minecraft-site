@@ -10,3 +10,30 @@ a {color:rgb(0, 255, 76)}
 .logo {
     max-width: 400px;
 }
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: red;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: yellowgreen;
+  }
+  
+  /* selected link */
+  a:active {
+    color: lightgreen;
+    ;
+  }
+
+  img:hover {
+      transform: scale(1.5)  rotate(5deg);
+      transition: all 500ms;
+  }
+ 
